@@ -100,4 +100,4 @@ Dilakukan beberapa tahap pembersihan dan normalisasi data:
 
 ## 🧑‍💻 Author
 
-[Lalu Olfata Vedora Zurji](https://github.com/olfataVz/Wuwa-Sentiment-Analysist.git)
+[Lalu Olfata Vedora Zurji](https://github.com/olfataVz)
